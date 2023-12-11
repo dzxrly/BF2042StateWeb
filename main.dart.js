@@ -41786,7 +41786,7 @@ r=A.l(a).p3.Q
 r=r==null?m:r.r
 q=A.l(a).p3.Q
 q=q==null?m:q.w
-return A.cL(m,A.di(A.a([k,B.cW,p,A.afV(A.ct(A.a([B.Hk,B.tO,A.ax("Github",m,m,m,m,A.bA(m,m,A.l(a).ax.b,m,m,m,m,m,m,m,m,r,m,m,q,m,m,!0,m,m,m,m,m,m,m,m),m,m)],o),B.t,B.a5,B.A),new A.ajB(n),m),B.Gc,A.ax("\u672c\u5e94\u7528\u7531 Egg Targaryen \u5f00\u53d1 (\u6a58\u5b50: Xx__Koraidon__xX)\u3002\u73a9\u5bb6\u6570\u636e\u63a5\u53e3\u6765\u81ea gametools.network\uff0c\u975e\u5e38\u611f\u8c22\u5176\u63d0\u4f9b\u7684\u63a5\u53e3\u3002BFBan\u6570\u636e\u6765\u81ea bfban.com\uff0c\u7ed3\u679c\u4ec5\u4f9b\u53c2\u8003\uff0c\u672c\u5e94\u7528\u53ca\u4f5c\u8005\u4e0d\u5bf9\u8be5\u7ed3\u679c\u8d1f\u8d23\uff0c\u5982\u6709\u7591\u95ee\u8bf7\u81ea\u884c\u8054\u7cfbBFBan\u3002",m,m,m,!0,A.l(a).p3.z,m,m)],o),B.t,B.Y,B.aG),B.o,m,m,m,m,m,m,B.mI,m,m,l.a.a)}}
+return A.cL(m,A.di(A.a([k,B.cW,p,A.afV(A.ct(A.a([B.Hk,B.tO,A.ax("Github",m,m,m,m,A.bA(m,m,A.l(a).ax.b,m,m,m,m,m,m,m,m,r,m,m,q,m,m,!0,m,m,m,m,m,m,m,m),m,m)],o),B.t,B.a5,B.A),new A.ajB(n),m),B.Gc,A.ax("\u672c\u5e94\u7528\u7531 Egg Targaryen \u5f00\u53d1 (\u6a58\u5b50ID: x_Reshiram)\u3002\u73a9\u5bb6\u6570\u636e\u63a5\u53e3\u6765\u81ea gametools.network\uff0c\u975e\u5e38\u611f\u8c22\u5176\u63d0\u4f9b\u7684\u63a5\u53e3\u3002BFBan\u6570\u636e\u6765\u81ea bfban.com\uff0c\u7ed3\u679c\u4ec5\u4f9b\u53c2\u8003\uff0c\u672c\u5e94\u7528\u53ca\u4f5c\u8005\u4e0d\u5bf9\u8be5\u7ed3\u679c\u8d1f\u8d23\uff0c\u5982\u6709\u7591\u95ee\u8bf7\u81ea\u884c\u8054\u7cfbBFBan\u3002",m,m,m,!0,A.l(a).p3.z,m,m)],o),B.t,B.Y,B.aG),B.o,m,m,m,m,m,m,B.mI,m,m,l.a.a)}}
 A.ajC.prototype={
 $0(){var s=this.a,r=this.b
 s.d=r.c
