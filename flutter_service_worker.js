@@ -9,7 +9,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2700dfcb9b1540776b0896afb9fd46e5
 "assets/assets/avatar_span.png": "9d7ddb27d53fd545a3235f0f5864989a",
 "assets/assets/bf_2042_white_logo.svg": "1fee66e8902ee1e58ff76c91a105ecfb",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
-"assets/fonts/MaterialIcons-Regular.otf": "5ce069d7187d83a900afa07f16964ab9",
+"assets/fonts/MaterialIcons-Regular.otf": "8bdddf1b974fa2dbd0b25034f8b575ea",
 "assets/NOTICES": "b81f8387e739b33b2302ada0caab0e02",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "84fc0a3b5647c835f2f28ff924c4ae6e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "f3307f62ddff94d2cd8b103daf8d1b0f",
@@ -136,11 +136,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "2700dfcb9b1540776b0896afb9fd46e5
 "icons/windows11/Wide310x150Logo.scale-150.png": "f4d3a39a97ccd673ac2ee7607e68a8a5",
 "icons/windows11/Wide310x150Logo.scale-200.png": "2c885372b3f1b97a72989ad5a39db1e9",
 "icons/windows11/Wide310x150Logo.scale-400.png": "38040261eb191e9257be5ee49a200d52",
-"index.html": "7f395249077508d94d469d7bead3806b",
-"/": "7f395249077508d94d469d7bead3806b",
-"main.dart.js": "8b0ce6e7b72433c59a65e5ddedf51e8b",
+"index.html": "eae81ff596d9442eb557d53c8c6a1b25",
+"/": "eae81ff596d9442eb557d53c8c6a1b25",
+"main.dart.js": "774f3d4bc0bcf9f1caf3961ef2229009",
 "manifest.json": "bb3b029592260d57545edc70693cb992",
-"version.json": "2214953c3c7f8f05a7dbb99fb5dd7212"};
+"version.json": "704b0e600106cecce348fdd9bd90fb27"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
